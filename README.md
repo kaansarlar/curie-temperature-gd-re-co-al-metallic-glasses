@@ -34,7 +34,7 @@ The numerical audit independently reconstructs 99 archived outer models, their i
 
 ## Files
 
-- `manuscript/`: anonymous English draft in the supplied journal format and a Turkish scientific review.
+- `manuscript/`: anonymous English draft in the supplied journal format and submission-status notes.
 - `data/`: development fold predictions, six frozen checks, provenance flags and metrics.
 - `models/`: frozen coefficients, outer fold models and inner decisions.
 - `scripts/`: self-contained numerical reconstruction and figure generation.
