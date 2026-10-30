@@ -1,0 +1,19 @@
+{
+  "family": "exchange_Co",
+  "features": [
+    "D",
+    "D_Co"
+  ],
+  "coefficients": [
+    9.353222080089138,
+    1.5845031991738954
+  ],
+  "alpha": 0.01,
+  "parameters": 2,
+  "design_rank": 2,
+  "basis_scales": [
+    4.951663055137724,
+    2.5282126518586456
+  ],
+  "inner_group_MAE_K": 1.7145876475950286
+}

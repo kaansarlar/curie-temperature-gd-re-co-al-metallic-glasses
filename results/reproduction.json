@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "outer_models_reconstructed": 99,
+  "max_model_prediction_difference_K": 1.0800249583553523e-12,
+  "frozen_arithmetic_max_difference_K": 1.4210854715202004e-14,
+  "new_targets_used_to_fit": false,
+  "scope": "DOI/composition-group validation, not independent laboratory validation"
+}

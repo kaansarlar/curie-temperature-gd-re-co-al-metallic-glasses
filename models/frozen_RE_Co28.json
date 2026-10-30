@@ -1,0 +1,15 @@
+{
+  "scope": "expanded28",
+  "status": "research_candidate_not_independent_exchange_measurement",
+  "expression": "Tc_K = D * (9.60424325448772 + 1.94442342044191*(R-10)/5 + 0.952446012401658*(xCo-0.225)/0.05)",
+  "D": "sum of whole-alloy RE/Y fractions times free-ion de-Gennes factor",
+  "R": "D/fRE; fRE includesY",
+  "physical_inference": "First-order composition-dependent effective temperature amplitude, not atomic Jij.",
+  "old_formula_unchanged": true,
+  "coefficients": [
+    9.60424325448772,
+    1.944423420441906,
+    0.9524460124016577
+  ],
+  "alpha": 0.001
+}

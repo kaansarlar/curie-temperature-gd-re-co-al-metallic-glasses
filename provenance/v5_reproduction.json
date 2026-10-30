@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "checks": [
+    "All pre-check model/data hashes match; original A coefficients unchanged",
+    "3d_BCC_Al: source/composition separation, independent weighted ridge/active-set coefficients, predictions and errors agree",
+    "3d_FCC_Cr_including_MTG: source/composition separation, independent weighted ridge/active-set coefficients, predictions and errors agree",
+    "3d_FCC_Cr_without_MTG: source/composition separation, independent weighted ridge/active-set coefficients, predictions and errors agree",
+    "Co_all18_sensitivity: source/composition separation, independent weighted ridge/active-set coefficients, predictions and errors agree",
+    "Co_numeric15: source/composition separation, independent weighted ridge/active-set coefficients, predictions and errors agree",
+    "No tested 3d subset passes the prespecified screen; two underpowered subsets not given misleading nested scores",
+    "Both new Co predictions use frozen coefficients; chemical-extrapolation flags retained; Fe20 counterexample passes old gates and has >30 K error",
+    "Co-only default calculator rejects Fe/Ni, unknown phase and marginal extrapolation; joint-hull warnings are not hidden",
+    "Six proposed recipes are explicitly unmeasured, unverified-phase conditional calculations, not new experimental validation"
+  ],
+  "limitation": "Few sources, post-selection focus and shared-author retrospective checks do not establish universal reliability or a calibrated prediction interval."
+}

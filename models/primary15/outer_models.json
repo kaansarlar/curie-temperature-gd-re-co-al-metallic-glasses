@@ -1,0 +1,761 @@
+[
+  {
+    "fold": 0,
+    "test_records": [
+      "DISC-11"
+    ],
+    "models": {
+      "median": {
+        "family": "median",
+        "value": 44.0,
+        "parameters": 1,
+        "inner_group_MAE_K": 6.250000000000001
+      },
+      "dg_constant": {
+        "family": "dg_constant",
+        "features": [
+          "D"
+        ],
+        "coefficients": [
+          9.600454819563506
+        ],
+        "alpha": 0.0,
+        "parameters": 1,
+        "design_rank": 1,
+        "basis_scales": [
+          5.026334689805189
+        ],
+        "inner_group_MAE_K": 4.922742215770477
+      },
+      "affine": {
+        "features": [
+          "dG",
+          "x_Co"
+        ],
+        "alpha": 0.01,
+        "signed": false,
+        "intercept": -51.805643094117286,
+        "coefficients": [
+          12.893007635173257,
+          153.29541553469718
+        ],
+        "family": "linear_dG_Co",
+        "parameters": 3,
+        "inner_group_MAE_K": 2.2894508494253936
+      },
+      "exchange_Co": {
+        "family": "exchange_Co",
+        "features": [
+          "D",
+          "D_Co"
+        ],
+        "coefficients": [
+          9.370312896451608,
+          1.5788019929409436
+        ],
+        "alpha": 0.01,
+        "parameters": 2,
+        "design_rank": 2,
+        "basis_scales": [
+          5.026334689805189,
+          2.5749856418282704
+        ],
+        "inner_group_MAE_K": 2.211675153807513
+      },
+      "exchange_RE": {
+        "family": "exchange_RE",
+        "features": [
+          "D",
+          "D_R"
+        ],
+        "coefficients": [
+          9.68618776079505,
+          2.323098634620457
+        ],
+        "alpha": 0.01,
+        "parameters": 2,
+        "design_rank": 2,
+        "basis_scales": [
+          5.026334689805189,
+          1.615936273966325
+        ],
+        "inner_group_MAE_K": 2.659606063413664
+      },
+      "exchange_RE_Co": {
+        "family": "exchange_RE_Co",
+        "features": [
+          "D",
+          "D_R",
+          "D_Co"
+        ],
+        "coefficients": [
+          9.621931916502817,
+          1.4141078395474158,
+          1.0376321442946128
+        ],
+        "alpha": 0.0,
+        "parameters": 3,
+        "design_rank": 3,
+        "basis_scales": [
+          5.026334689805189,
+          1.615936273966325,
+          2.5749856418282704
+        ],
+        "inner_group_MAE_K": 1.7948994771619489
+      }
+    },
+    "selected": {
+      "family": "exchange_Co",
+      "features": [
+        "D",
+        "D_Co"
+      ],
+      "coefficients": [
+        9.370312896451608,
+        1.5788019929409436
+      ],
+      "alpha": 0.01,
+      "parameters": 2,
+      "design_rank": 2,
+      "basis_scales": [
+        5.026334689805189,
+        2.5749856418282704
+      ],
+      "inner_group_MAE_K": 2.211675153807513
+    }
+  },
+  {
+    "fold": 1,
+    "test_records": [
+      "EXT-0",
+      "EXT-1",
+      "EXT-2"
+    ],
+    "models": {
+      "median": {
+        "family": "median",
+        "value": 43.0,
+        "parameters": 1,
+        "inner_group_MAE_K": 2.9500000000000006
+      },
+      "dg_constant": {
+        "family": "dg_constant",
+        "features": [
+          "D"
+        ],
+        "coefficients": [
+          9.10726739414443
+        ],
+        "alpha": 0.0,
+        "parameters": 1,
+        "design_rank": 1,
+        "basis_scales": [
+          4.761379521837769
+        ],
+        "inner_group_MAE_K": 3.7712610041842445
+      },
+      "affine": {
+        "features": [
+          "dG",
+          "x_Co"
+        ],
+        "alpha": 0.01,
+        "signed": false,
+        "intercept": -31.458349430551273,
+        "coefficients": [
+          9.915894505162578,
+          126.26161418974804
+        ],
+        "family": "linear_dG_Co",
+        "parameters": 3,
+        "inner_group_MAE_K": 1.847026222739941
+      },
+      "exchange_Co": {
+        "family": "exchange_Co",
+        "features": [
+          "D",
+          "D_Co"
+        ],
+        "coefficients": [
+          9.296494273432417,
+          1.3110679791494146
+        ],
+        "alpha": 0.0,
+        "parameters": 2,
+        "design_rank": 2,
+        "basis_scales": [
+          4.761379521837769,
+          2.445858681502472
+        ],
+        "inner_group_MAE_K": 1.6041550687609707
+      },
+      "exchange_RE": {
+        "family": "exchange_RE",
+        "features": [
+          "D",
+          "D_R"
+        ],
+        "coefficients": [
+          10.105492916814804,
+          3.5170162560275555
+        ],
+        "alpha": 0.0,
+        "parameters": 2,
+        "design_rank": 2,
+        "basis_scales": [
+          4.761379521837769,
+          1.5074613753206743
+        ],
+        "inner_group_MAE_K": 2.8204336716629417
+      },
+      "exchange_RE_Co": {
+        "family": "exchange_RE_Co",
+        "features": [
+          "D",
+          "D_R",
+          "D_Co"
+        ],
+        "coefficients": [
+          9.479300565785316,
+          0.7143602946880331,
+          1.1728522581841818
+        ],
+        "alpha": 0.0,
+        "parameters": 3,
+        "design_rank": 3,
+        "basis_scales": [
+          4.761379521837769,
+          1.5074613753206743,
+          2.445858681502472
+        ],
+        "inner_group_MAE_K": 1.5457697803488475
+      }
+    },
+    "selected": {
+      "family": "exchange_Co",
+      "features": [
+        "D",
+        "D_Co"
+      ],
+      "coefficients": [
+        9.296494273432417,
+        1.3110679791494146
+      ],
+      "alpha": 0.0,
+      "parameters": 2,
+      "design_rank": 2,
+      "basis_scales": [
+        4.761379521837769,
+        2.445858681502472
+      ],
+      "inner_group_MAE_K": 1.6041550687609707
+    }
+  },
+  {
+    "fold": 2,
+    "test_records": [
+      "EXT-3",
+      "EXT-4",
+      "EXT-5",
+      "EXT-6"
+    ],
+    "models": {
+      "median": {
+        "family": "median",
+        "value": 44.0,
+        "parameters": 1,
+        "inner_group_MAE_K": 7.4
+      },
+      "dg_constant": {
+        "family": "dg_constant",
+        "features": [
+          "D"
+        ],
+        "coefficients": [
+          9.414502995603465
+        ],
+        "alpha": 0.0,
+        "parameters": 1,
+        "design_rank": 1,
+        "basis_scales": [
+          5.072180606837997
+        ],
+        "inner_group_MAE_K": 5.596713374452795
+      },
+      "affine": {
+        "features": [
+          "dG",
+          "x_Co"
+        ],
+        "alpha": 0.1,
+        "signed": false,
+        "intercept": -43.926615062826414,
+        "coefficients": [
+          11.916583353475033,
+          141.16614277710138
+        ],
+        "family": "linear_dG_Co",
+        "parameters": 3,
+        "inner_group_MAE_K": 1.9500509107162332
+      },
+      "exchange_Co": {
+        "family": "exchange_Co",
+        "features": [
+          "D",
+          "D_Co"
+        ],
+        "coefficients": [
+          9.437038098501942,
+          1.7246231664116307
+        ],
+        "alpha": 0.01,
+        "parameters": 2,
+        "design_rank": 2,
+        "basis_scales": [
+          5.072180606837997,
+          2.597363081903041
+        ],
+        "inner_group_MAE_K": 1.742149931425303
+      },
+      "exchange_RE": {
+        "family": "exchange_RE",
+        "features": [
+          "D",
+          "D_R"
+        ],
+        "coefficients": [
+          9.609933737678508,
+          2.5169261503609244
+        ],
+        "alpha": 0.01,
+        "parameters": 2,
+        "design_rank": 2,
+        "basis_scales": [
+          5.072180606837997,
+          1.8050696381806024
+        ],
+        "inner_group_MAE_K": 1.8382241634952805
+      },
+      "exchange_RE_Co": {
+        "family": "exchange_RE_Co",
+        "features": [
+          "D",
+          "D_R",
+          "D_Co"
+        ],
+        "coefficients": [
+          9.647519529578437,
+          1.4185400081921276,
+          1.0136315291301106
+        ],
+        "alpha": 0.0,
+        "parameters": 3,
+        "design_rank": 3,
+        "basis_scales": [
+          5.072180606837997,
+          1.8050696381806024,
+          2.597363081903041
+        ],
+        "inner_group_MAE_K": 1.4608586922859648
+      }
+    },
+    "selected": {
+      "family": "exchange_Co",
+      "features": [
+        "D",
+        "D_Co"
+      ],
+      "coefficients": [
+        9.437038098501942,
+        1.7246231664116307
+      ],
+      "alpha": 0.01,
+      "parameters": 2,
+      "design_rank": 2,
+      "basis_scales": [
+        5.072180606837997,
+        2.597363081903041
+      ],
+      "inner_group_MAE_K": 1.742149931425303
+    }
+  },
+  {
+    "fold": 3,
+    "test_records": [
+      "DISC-39",
+      "DISC-41",
+      "DISC-43"
+    ],
+    "models": {
+      "median": {
+        "family": "median",
+        "value": 43.0,
+        "parameters": 1,
+        "inner_group_MAE_K": 6.35
+      },
+      "dg_constant": {
+        "family": "dg_constant",
+        "features": [
+          "D"
+        ],
+        "coefficients": [
+          9.58706237901509
+        ],
+        "alpha": 0.0,
+        "parameters": 1,
+        "design_rank": 1,
+        "basis_scales": [
+          4.941436016727062
+        ],
+        "inner_group_MAE_K": 5.113991120287918
+      },
+      "affine": {
+        "features": [
+          "dG",
+          "x_Co"
+        ],
+        "alpha": 0.01,
+        "signed": false,
+        "intercept": -50.31760379825275,
+        "coefficients": [
+          12.588920238839192,
+          153.53024427030167
+        ],
+        "family": "linear_dG_Co",
+        "parameters": 3,
+        "inner_group_MAE_K": 2.399196963891056
+      },
+      "exchange_Co": {
+        "family": "exchange_Co",
+        "features": [
+          "D",
+          "D_Co"
+        ],
+        "coefficients": [
+          9.370290392734091,
+          1.7489209471271012
+        ],
+        "alpha": 0.001,
+        "parameters": 2,
+        "design_rank": 2,
+        "basis_scales": [
+          4.941436016727062,
+          2.47071800836353
+        ],
+        "inner_group_MAE_K": 1.613963318950179
+      },
+      "exchange_RE": {
+        "family": "exchange_RE",
+        "features": [
+          "D",
+          "D_R"
+        ],
+        "coefficients": [
+          9.716708871621098,
+          2.2683833840515866
+        ],
+        "alpha": 0.01,
+        "parameters": 2,
+        "design_rank": 2,
+        "basis_scales": [
+          4.941436016727062,
+          1.7593500177852834
+        ],
+        "inner_group_MAE_K": 2.3856570278097595
+      },
+      "exchange_RE_Co": {
+        "family": "exchange_RE_Co",
+        "features": [
+          "D",
+          "D_R",
+          "D_Co"
+        ],
+        "coefficients": [
+          9.583333818203773,
+          1.3155099792302438,
+          1.1406278185871046
+        ],
+        "alpha": 0.0,
+        "parameters": 3,
+        "design_rank": 3,
+        "basis_scales": [
+          4.941436016727062,
+          1.7593500177852834,
+          2.4707180083635305
+        ],
+        "inner_group_MAE_K": 1.7857565963559443
+      }
+    },
+    "selected": {
+      "family": "exchange_Co",
+      "features": [
+        "D",
+        "D_Co"
+      ],
+      "coefficients": [
+        9.370290392734091,
+        1.7489209471271012
+      ],
+      "alpha": 0.001,
+      "parameters": 2,
+      "design_rank": 2,
+      "basis_scales": [
+        4.941436016727062,
+        2.47071800836353
+      ],
+      "inner_group_MAE_K": 1.613963318950179
+    }
+  },
+  {
+    "fold": 4,
+    "test_records": [
+      "EXT-7"
+    ],
+    "models": {
+      "median": {
+        "family": "median",
+        "value": 44.0,
+        "parameters": 1,
+        "inner_group_MAE_K": 7.050000000000002
+      },
+      "dg_constant": {
+        "family": "dg_constant",
+        "features": [
+          "D"
+        ],
+        "coefficients": [
+          9.660973926296506
+        ],
+        "alpha": 0.0,
+        "parameters": 1,
+        "design_rank": 1,
+        "basis_scales": [
+          4.926281713934976
+        ],
+        "inner_group_MAE_K": 4.65179192807357
+      },
+      "affine": {
+        "features": [
+          "dG",
+          "x_Co"
+        ],
+        "alpha": 0.01,
+        "signed": false,
+        "intercept": -45.789686720460466,
+        "coefficients": [
+          12.916046786720733,
+          128.9012082545985
+        ],
+        "family": "linear_dG_Co",
+        "parameters": 3,
+        "inner_group_MAE_K": 1.3805416697906947
+      },
+      "exchange_Co": {
+        "family": "exchange_Co",
+        "features": [
+          "D",
+          "D_Co"
+        ],
+        "coefficients": [
+          9.397644085475772,
+          1.5328668179054363
+        ],
+        "alpha": 0.01,
+        "parameters": 2,
+        "design_rank": 2,
+        "basis_scales": [
+          4.926281713934977,
+          2.526183649974706
+        ],
+        "inner_group_MAE_K": 2.0538414940124667
+      },
+      "exchange_RE": {
+        "family": "exchange_RE",
+        "features": [
+          "D",
+          "D_R"
+        ],
+        "coefficients": [
+          9.774883781507903,
+          2.144275656784739
+        ],
+        "alpha": 0.01,
+        "parameters": 2,
+        "design_rank": 2,
+        "basis_scales": [
+          4.926281713934977,
+          1.755319668532069
+        ],
+        "inner_group_MAE_K": 2.0099987089888467
+      },
+      "exchange_RE_Co": {
+        "family": "exchange_RE_Co",
+        "features": [
+          "D",
+          "D_R",
+          "D_Co"
+        ],
+        "coefficients": [
+          9.703390598799087,
+          1.4158690434798238,
+          0.8810701780584368
+        ],
+        "alpha": 0.0,
+        "parameters": 3,
+        "design_rank": 3,
+        "basis_scales": [
+          4.926281713934977,
+          1.755319668532069,
+          2.526183649974706
+        ],
+        "inner_group_MAE_K": 1.0169894971443443
+      }
+    },
+    "selected": {
+      "family": "exchange_RE",
+      "features": [
+        "D",
+        "D_R"
+      ],
+      "coefficients": [
+        9.774883781507903,
+        2.144275656784739
+      ],
+      "alpha": 0.01,
+      "parameters": 2,
+      "design_rank": 2,
+      "basis_scales": [
+        4.926281713934977,
+        1.755319668532069
+      ],
+      "inner_group_MAE_K": 2.0099987089888467
+    }
+  },
+  {
+    "fold": 5,
+    "test_records": [
+      "DISC-33",
+      "DISC-34",
+      "DISC-35"
+    ],
+    "models": {
+      "median": {
+        "family": "median",
+        "value": 43.0,
+        "parameters": 1,
+        "inner_group_MAE_K": 5.35
+      },
+      "dg_constant": {
+        "family": "dg_constant",
+        "features": [
+          "D"
+        ],
+        "coefficients": [
+          9.319230635629985
+        ],
+        "alpha": 0.0,
+        "parameters": 1,
+        "design_rank": 1,
+        "basis_scales": [
+          4.976541888092476
+        ],
+        "inner_group_MAE_K": 4.9879505562460915
+      },
+      "affine": {
+        "features": [
+          "dG",
+          "x_Co"
+        ],
+        "alpha": 0.01,
+        "signed": false,
+        "intercept": -48.36126831363757,
+        "coefficients": [
+          12.714793861963276,
+          142.56728303301625
+        ],
+        "family": "linear_dG_Co",
+        "parameters": 3,
+        "inner_group_MAE_K": 3.102526698845415
+      },
+      "exchange_Co": {
+        "family": "exchange_Co",
+        "features": [
+          "D",
+          "D_Co"
+        ],
+        "coefficients": [
+          9.466220014722804,
+          1.6365042714350524
+        ],
+        "alpha": 0.0,
+        "parameters": 2,
+        "design_rank": 2,
+        "basis_scales": [
+          4.976541888092476,
+          2.550692698684369
+        ],
+        "inner_group_MAE_K": 2.5337285584083697
+      },
+      "exchange_RE": {
+        "family": "exchange_RE",
+        "features": [
+          "D",
+          "D_R"
+        ],
+        "coefficients": [
+          9.676614756052052,
+          2.410110850279465
+        ],
+        "alpha": 0.0,
+        "parameters": 2,
+        "design_rank": 2,
+        "basis_scales": [
+          4.976541888092476,
+          1.8784753885795045
+        ],
+        "inner_group_MAE_K": 2.386494128727497
+      },
+      "exchange_RE_Co": {
+        "family": "exchange_RE_Co",
+        "features": [
+          "D",
+          "D_R",
+          "D_Co"
+        ],
+        "coefficients": [
+          9.619270482470286,
+          1.4589930441525023,
+          0.931789978167202
+        ],
+        "alpha": 0.0,
+        "parameters": 3,
+        "design_rank": 3,
+        "basis_scales": [
+          4.976541888092476,
+          1.8784753885795045,
+          2.550692698684369
+        ],
+        "inner_group_MAE_K": 2.3183511841093263
+      }
+    },
+    "selected": {
+      "family": "exchange_Co",
+      "features": [
+        "D",
+        "D_Co"
+      ],
+      "coefficients": [
+        9.466220014722804,
+        1.6365042714350524
+      ],
+      "alpha": 0.0,
+      "parameters": 2,
+      "design_rank": 2,
+      "basis_scales": [
+        4.976541888092476,
+        2.550692698684369
+      ],
+      "inner_group_MAE_K": 2.5337285584083697
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "index": 1,
+    "doi": "10.1016/j.mtla.2019.100419",
+    "reference": "[1] L. Shao, L. Xue, Q. Luo, Q. Wang, and B. Shen, “The role of Co/Al ratio in glass-forming GdCoAl magnetocaloric metallic glasses,” Materialia, vol. 7, Art. no. 100419, 2019, doi: 10.1016/j.mtla.2019.100419."
+  },
+  {
+    "index": 2,
+    "doi": "10.3390/ma14041002",
+    "reference": "[2] X. Wang, D. Ding, L. Cui, and L. Xia, “Compositional Dependence of Curie Temperature and Magnetic Entropy Change in the Amorphous Tb–Co Ribbons,” Materials, vol. 14, no. 4, Art. no. 1002, 2021, doi: 10.3390/ma14041002."
+  },
+  {
+    "index": 3,
+    "doi": "10.1016/j.matdes.2024.112653",
+    "reference": "[3] F. Jin, C. Yuan, C. Pang, X. Wang, C. Cao, and J. Huo, “Entropy tailoring of thermodynamic behaviors and magnetocaloric effects in (GdTbDy)CoAl metallic glasses,” Materials & Design, vol. 238, Art. no. 112653, 2024, doi: 10.1016/j.matdes.2024.112653."
+  },
+  {
+    "index": 4,
+    "doi": "10.1063/1.4870286",
+    "reference": "[4] H. Zhang, R. Li, L. Zhang, and T. Zhang, “Tunable magnetic and magnetocaloric properties in heavy rare-earth based metallic glasses through the substitution of similar elements,” Journal of Applied Physics, vol. 115, no. 13, Art. no. 133903, 2014, doi: 10.1063/1.4870286."
+  },
+  {
+    "index": 5,
+    "doi": "10.1016/j.cjph.2024.09.021",
+    "reference": "[5] H. Ma, L. Gao, X. Jin, J. Zhao, J. Zhao, and J. Huang, “Low-temperature magnetic refrigeration in Gd20Tb20Er20Al20M20 (M = Fe, Co) high-entropy metallic glasses,” Chinese Journal of Physics, vol. 92, pp. 353-365, 2024, doi: 10.1016/j.cjph.2024.09.021."
+  },
+  {
+    "index": 6,
+    "doi": "10.1016/j.intermet.2014.11.004",
+    "reference": "[6] J. Huo, et al., “The magnetocaloric effect of Gd-Tb-Dy-Al-M (M = Fe, Co and Ni) high-entropy bulk metallic glasses,” Intermetallics, vol. 58, pp. 31-35, 2015, doi: 10.1016/j.intermet.2014.11.004."
+  },
+  {
+    "index": 7,
+    "doi": "10.1016/j.intermet.2018.02.015",
+    "reference": "[7] W. Sheng, J. Q. Wang, G. Wang, J. Huo, X. Wang, and R. W. Li, “Amorphous microwires of high entropy alloys with large magnetocaloric effect,” Intermetallics, vol. 96, pp. 79-83, 2018, doi: 10.1016/j.intermet.2018.02.015."
+  },
+  {
+    "index": 8,
+    "doi": "10.1016/j.intermet.2018.03.002",
+    "reference": "[8] J. Li, L. Xue, W. Yang, C. Yuan, J. Huo, and B. Shen, “Distinct spin glass behavior and excellent magnetocaloric effect in Er 20 Dy 20 Co 20 Al 20 RE 20 (RE = Gd, Tb and Tm) high-entropy bulk metallic glasses,” Intermetallics, vol. 96, pp. 90-93, 2018, doi: 10.1016/j.intermet.2018.03.002."
+  },
+  {
+    "index": 9,
+    "doi": "10.1016/j.jallcom.2019.03.210",
+    "reference": "[9] L. Xue, L. Shao, Q. Luo, and B. Shen, “Gd25RE25Co25Al25 (RE = Tb, Dy and Ho) high-entropy glassy alloys with distinct spin-glass behavior and good magnetocaloric effect,” Journal of Alloys and Compounds, vol. 790, pp. 633-639, 2019, doi: 10.1016/j.jallcom.2019.03.210."
+  },
+  {
+    "index": 10,
+    "doi": "10.1016/j.jallcom.2020.154101",
+    "reference": "[10] C. M. Pang, et al., “Effect of Dy, Ho, and Er substitution on the magnetocaloric properties of Gd-Co-Al-Y high entropy bulk metallic glasses,” Journal of Alloys and Compounds, vol. 827, Art. no. 154101, 2020, doi: 10.1016/j.jallcom.2020.154101."
+  },
+  {
+    "index": 11,
+    "doi": "10.1016/j.jallcom.2024.176308",
+    "reference": "[11] S. Wei, et al., “Microstructure and magnetocaloric behavior of GdDyCoAl-based high-entropy metallic glass microwires,” Journal of Alloys and Compounds, vol. 1006, Art. no. 176308, 2024, doi: 10.1016/j.jallcom.2024.176308."
+  },
+  {
+    "index": 12,
+    "doi": "10.1016/j.jallcom.2025.185117",
+    "reference": "[12] Q. Li, L. Gao, J. Xu, X. Jin, and J. Zhao, “Glass-forming ability and magnetocaloric performance of Gd18.34Tb18.33Dy18.33Al20M25 (M = Fe, Co) high-entropy amorphous alloys,” Journal of Alloys and Compounds, vol. 1047, Art. no. 185117, 2025, doi: 10.1016/j.jallcom.2025.185117."
+  },
+  {
+    "index": 13,
+    "doi": "10.1016/j.jmrt.2021.01.035",
+    "reference": "[13] L. Shao, et al., “Effects of minor Si addition on structural heterogeneity and glass formation of GdDyErCoAl high-entropy bulk metallic glass,” Journal of Materials Research and Technology, vol. 11, pp. 378-391, 2021, doi: 10.1016/j.jmrt.2021.01.035."
+  },
+  {
+    "index": 14,
+    "doi": "10.1016/j.jmrt.2024.11.019",
+    "reference": "[14] S. Wei, H. Shen, L. Zhang, F. Cao, and J. Sun, “Magnetic properties and magnetocaloric effects of rare-earth based high-entropy amorphous microwires,” Journal of Materials Research and Technology, vol. 33, pp. 6216-6222, 2024, doi: 10.1016/j.jmrt.2024.11.019."
+  },
+  {
+    "index": 15,
+    "doi": "10.1016/j.jnoncrysol.2020.120354",
+    "reference": "[15] C. M. Pang, et al., “Effect of Yttrium addition on magnetocaloric properties of Gd-Co-Al-Ho high entropy metallic glasses,” Journal of Non-Crystalline Solids, vol. 549, Art. no. 120354, 2020, doi: 10.1016/j.jnoncrysol.2020.120354."
+  },
+  {
+    "index": 16,
+    "doi": "10.1063/1.4908286",
+    "reference": "[16] J. Huo, et al., “High-entropy bulk metallic glasses as promising magnetic refrigerants,” Journal of Applied Physics, vol. 117, no. 7, Art. no. 073902, 2015, doi: 10.1063/1.4908286."
+  },
+  {
+    "index": 17,
+    "doi": "10.1016/j.jmmm.2021.168769",
+    "reference": "[17] Z. Zhang, Q. Luo, L. Shao, L. Xue, B. Chen, and B. Shen, “Tuning magnetocaloric effect of Gd-Co-Al-Si bulk metallic glass via controlling degree of structural order,” Journal of Magnetism and Magnetic Materials, vol. 545, Art. no. 168769, 2022, doi: 10.1016/j.jmmm.2021.168769."
+  },
+  {
+    "index": 18,
+    "doi": "10.1016/j.matdes.2022.111500",
+    "reference": "[18] Q. Luo, J. Cui, Z. Zhang, M. Han, and B. Shen, “Tuning nanoscale heterogeneity by non-affine thermal strain to modulate defect activation and maximize magnetocaloric effect of metallic glass,” Materials & Design, vol. 225, Art. no. 111500, 2023, doi: 10.1016/j.matdes.2022.111500."
+  },
+  {
+    "index": 19,
+    "doi": "10.1016/j.mtcomm.2023.107667",
+    "reference": "[19] C. Liu, Y. Lu, J. Feng, W. Cai, and H. Su, “Prediction and customized design of Curie temperature of Fe-based amorphous alloys based on interpretable machine learning,” Materials Today Communications, vol. 38, Art. no. 107667, 2024, doi: 10.1016/j.mtcomm.2023.107667."
+  },
+  {
+    "index": 20,
+    "doi": "10.1360/sspma-2026-0007",
+    "reference": "[20] Z. LI, S. LEI, Y. GAO, M. ZHU, S. ZHANG, and J. LIN, “Interpretable machine learning-driven synergistic optimization of magnetocaloric properties and design of room-temperature refrigeration materials for amorphous alloys,” SCIENTIA SINICA Physica, Mechanica & Astronomica, vol. 56, no. 12, Art. no. 126111, 2026, doi: 10.1360/sspma-2026-0007."
+  }
+]

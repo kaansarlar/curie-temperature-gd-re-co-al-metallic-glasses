@@ -1,0 +1,15 @@
+{
+  "features": [
+    "dG",
+    "x_Co"
+  ],
+  "alpha": 0.01,
+  "signed": false,
+  "intercept": -48.46044798198254,
+  "coefficients": [
+    12.637366749109304,
+    145.00506427349472
+  ],
+  "family": "linear_dG_Co",
+  "inner_group_MAE_K": 1.9037931164092732
+}

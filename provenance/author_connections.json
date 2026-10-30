@@ -1,0 +1,217 @@
+{
+  "method": "Conservative possible shared surname+initials or identical canonical recipe. This is a dependency screen, not ORCID-certified identity or lab count.",
+  "edges": [
+    {
+      "doi_a": "10.1016/j.cjph.2024.09.021",
+      "doi_b": "10.1016/j.jallcom.2025.185117",
+      "possible_shared_author_keys": [
+        "gao:l",
+        "jin:x",
+        "zhao:j"
+      ],
+      "same_recipe": false
+    },
+    {
+      "doi_a": "10.1016/j.intermet.2014.11.004",
+      "doi_b": "10.1016/j.intermet.2018.02.015",
+      "possible_shared_author_keys": [
+        "huo:j",
+        "li:rw",
+        "wang:x"
+      ],
+      "same_recipe": false
+    },
+    {
+      "doi_a": "10.1016/j.intermet.2014.11.004",
+      "doi_b": "10.1016/j.intermet.2018.03.002",
+      "possible_shared_author_keys": [
+        "huo:j"
+      ],
+      "same_recipe": false
+    },
+    {
+      "doi_a": "10.1016/j.intermet.2014.11.004",
+      "doi_b": "10.1016/j.jallcom.2024.176308",
+      "possible_shared_author_keys": [],
+      "same_recipe": true
+    },
+    {
+      "doi_a": "10.1016/j.intermet.2014.11.004",
+      "doi_b": "10.1016/j.matdes.2024.112653",
+      "possible_shared_author_keys": [
+        "huo:j",
+        "wang:x"
+      ],
+      "same_recipe": false
+    },
+    {
+      "doi_a": "10.1016/j.intermet.2014.11.004",
+      "doi_b": "10.1063/1.4908286",
+      "possible_shared_author_keys": [
+        "chang:c",
+        "huo:j",
+        "huo:l",
+        "inoue:a",
+        "li:rw",
+        "men:h",
+        "wang:x"
+      ],
+      "same_recipe": false
+    },
+    {
+      "doi_a": "10.1016/j.intermet.2018.02.015",
+      "doi_b": "10.1016/j.intermet.2018.03.002",
+      "possible_shared_author_keys": [
+        "huo:j"
+      ],
+      "same_recipe": false
+    },
+    {
+      "doi_a": "10.1016/j.intermet.2018.02.015",
+      "doi_b": "10.1016/j.matdes.2024.112653",
+      "possible_shared_author_keys": [
+        "huo:j",
+        "wang:x"
+      ],
+      "same_recipe": false
+    },
+    {
+      "doi_a": "10.1016/j.intermet.2018.02.015",
+      "doi_b": "10.1063/1.4908286",
+      "possible_shared_author_keys": [
+        "huo:j",
+        "li:rw",
+        "wang:jq",
+        "wang:x"
+      ],
+      "same_recipe": true
+    },
+    {
+      "doi_a": "10.1016/j.intermet.2018.03.002",
+      "doi_b": "10.1016/j.jallcom.2019.03.210",
+      "possible_shared_author_keys": [
+        "shen:b",
+        "xue:l"
+      ],
+      "same_recipe": false
+    },
+    {
+      "doi_a": "10.1016/j.intermet.2018.03.002",
+      "doi_b": "10.1016/j.jmrt.2021.01.035",
+      "possible_shared_author_keys": [
+        "shen:b",
+        "xue:l"
+      ],
+      "same_recipe": false
+    },
+    {
+      "doi_a": "10.1016/j.intermet.2018.03.002",
+      "doi_b": "10.1016/j.jmrt.2024.11.019",
+      "possible_shared_author_keys": [],
+      "same_recipe": true
+    },
+    {
+      "doi_a": "10.1016/j.intermet.2018.03.002",
+      "doi_b": "10.1016/j.matdes.2024.112653",
+      "possible_shared_author_keys": [
+        "huo:j",
+        "yuan:c"
+      ],
+      "same_recipe": false
+    },
+    {
+      "doi_a": "10.1016/j.intermet.2018.03.002",
+      "doi_b": "10.1016/j.mtla.2019.100419",
+      "possible_shared_author_keys": [
+        "shen:b",
+        "xue:l"
+      ],
+      "same_recipe": false
+    },
+    {
+      "doi_a": "10.1016/j.intermet.2018.03.002",
+      "doi_b": "10.1063/1.4908286",
+      "possible_shared_author_keys": [
+        "huo:j",
+        "li:j"
+      ],
+      "same_recipe": false
+    },
+    {
+      "doi_a": "10.1016/j.jallcom.2019.03.210",
+      "doi_b": "10.1016/j.jallcom.2024.176308",
+      "possible_shared_author_keys": [],
+      "same_recipe": true
+    },
+    {
+      "doi_a": "10.1016/j.jallcom.2019.03.210",
+      "doi_b": "10.1016/j.jmrt.2021.01.035",
+      "possible_shared_author_keys": [
+        "luo:q",
+        "shao:l",
+        "shen:b",
+        "xue:l"
+      ],
+      "same_recipe": false
+    },
+    {
+      "doi_a": "10.1016/j.jallcom.2019.03.210",
+      "doi_b": "10.1016/j.mtla.2019.100419",
+      "possible_shared_author_keys": [
+        "luo:q",
+        "shao:l",
+        "shen:b",
+        "xue:l"
+      ],
+      "same_recipe": false
+    },
+    {
+      "doi_a": "10.1016/j.jallcom.2020.154101",
+      "doi_b": "10.1016/j.jnoncrysol.2020.120354",
+      "possible_shared_author_keys": [
+        "chen:l",
+        "huo:jt",
+        "pang:cm",
+        "shen:bl",
+        "xu:h",
+        "yuan:cc"
+      ],
+      "same_recipe": true
+    },
+    {
+      "doi_a": "10.1016/j.jallcom.2024.176308",
+      "doi_b": "10.1016/j.jmrt.2024.11.019",
+      "possible_shared_author_keys": [
+        "shen:h",
+        "sun:j",
+        "wei:s",
+        "zhang:l"
+      ],
+      "same_recipe": false
+    },
+    {
+      "doi_a": "10.1016/j.jmrt.2021.01.035",
+      "doi_b": "10.1016/j.mtla.2019.100419",
+      "possible_shared_author_keys": [
+        "luo:q",
+        "shao:l",
+        "shen:b",
+        "wang:q",
+        "xue:l"
+      ],
+      "same_recipe": false
+    },
+    {
+      "doi_a": "10.1016/j.matdes.2024.112653",
+      "doi_b": "10.1063/1.4908286",
+      "possible_shared_author_keys": [
+        "huo:j",
+        "wang:x"
+      ],
+      "same_recipe": false
+    }
+  ],
+  "n_components": 3,
+  "n_records": 28,
+  "n_DOIs": 14
+}

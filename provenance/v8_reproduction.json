@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "checks": [
+    "Frozen protocols, input datasets, full models, selected models and original v5 SHA unchanged.",
+    "primary15: original labels/roles retained; all folds DOI/recipe disjoint; inner alpha and family choices independently reconstructed; metrics/rank/positive amplitude verified.",
+    "expanded28: original labels/roles retained; all folds DOI/recipe disjoint; inner alpha and family choices independently reconstructed; metrics/rank/positive amplitude verified.",
+    "Primary15 affine OOF predictions exactly reproduce v5 to numerical tolerance.",
+    "51-point interpolation path is inside both primary hulls; synthetic targets absent; derivatives agree with finite differences.",
+    "Co-for-Al51-point conditional path: support, absent target labels and analytic slope verified.",
+    "New heterogeneous source checks are excluded from fitting and clean validation counts.",
+    "Candidate calculator accepts supported path, rejects phase/chemistry/outside support by default; raw override agrees with source calculations."
+  ],
+  "independently_reconstructed_outer_models": 99,
+  "max_prediction_difference_K": 1.0800249583553523e-12,
+  "method": "Independent unscaled augmented least-squares via scipy QR; full inner alpha/family decisions reconstructed."
+}

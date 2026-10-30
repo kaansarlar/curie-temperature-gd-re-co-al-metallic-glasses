@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the original experimental sources and this research repository."
+title: "Composition Based Estimation of Curie Temperature in Gd Containing RE Co Al Metallic Glasses"
+type: software
+version: 0.1.0
+authors:
+  - family-names: "Şarlar"
+    given-names: "Kağan"
+license: MIT
+abstract: "Code and curated factual data for a restricted comparison of affine and composition-dependent de Gennes relations. Working manuscript; no general or independent-laboratory validity claimed."
